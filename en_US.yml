@@ -6,7 +6,7 @@ prefix: "&7&l[&b&lL&3&lP&7&l] "
 view-available-commands-prompt: "&3Use &a/{0} help &3to view available commands."
 no-permission-for-subcommands: "&3You do not have permission to use any sub commands."
 first-time-setup: >
-  {PREFIX}&3It seems that no permissions have been setup yet!\n
+  {PREFIX}&3Parece que você não tem permissões para definir isso ainda!\n
   {PREFIX}&3Before you can use any of the LuckPerms commands in-game, you need to use the console to give yourself access.\n
   {PREFIX}&3Open your console and run:\n
   {PREFIX} &3&l> &a{0} user {1} permission set luckperms.* true\n
